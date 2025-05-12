@@ -26,12 +26,7 @@ news = """ ## 📖 News
 language_data = {
     "english": {
         "description": """
-        ### 🎥 **Translate videos easily with SoniTranslate!** 📽️
-
-        Upload a video, subtitle, audio file or provide a URL video link. 📽️ **Gets the updated notebook from the official repository.: [SoniTranslate](https://github.com/R3gm/SoniTranslate)!**
-
-        See the tab `Help` for instructions on how to use it. Let's start having fun with video translation! 🚀🎉
-        """,
+       """,
         "tutorial": """
         # 🔰 **Instructions for use:**
 
