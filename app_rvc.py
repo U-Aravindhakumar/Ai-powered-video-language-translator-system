@@ -1434,7 +1434,7 @@ class SoniTranslate(SoniTrCache):
         return output
 
 
-title = "<center><strong><font size='7'>📽️ SoniTranslate 🈷️</font></strong></center>"
+title = "<center><strong><font size='7'>📽️ Ai-Powered-Video-Language-Translation-System </font></strong></center>"
 
 
 def create_gui(theme, logs_in_gui=False):
